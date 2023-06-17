@@ -1,0 +1,4 @@
+After seeing how GitHub works, I am not convinced that I could make an easily reviewable portfolio. 
+I could potentially see linking a GitHub repository as part of a portfolio, but that's hardly making a portfolio using GitHub. It's somewhat akin to trying to use Krita to make a portfolio for art. 
+Sure, you use Krita to make the art itself, but Krita can't make the portfolio. Instead, the portfolio would be something that contains all of the art you made in Krita. So, I feel like I would create repositories here and then
+create a portfolio elsewhere that explains what a given project does then links to the repository.
