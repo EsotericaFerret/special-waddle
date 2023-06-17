@@ -1,0 +1,5 @@
+I am choosing to use Visual Studio Code as my IDE for this class. There are a few reasons for this. 
+First, I already have Visual Studio Code installed and setup the way I like it, which is very important for me when I'm coding.
+Second, I am familar with VSC's user interface and where to find the tools I need within it.
+Finally, linked with the way I've set it up, I have managed to get VSC to be able to run my code easily, allowing me to test and debug on the fly. 
+Given the challenges I faced getting that to work once, I'd just as soon not do it again!
